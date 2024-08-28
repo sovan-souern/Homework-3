@@ -1,0 +1,48 @@
+.container-1{
+    width: 80%;
+    height: 200px;
+    border: solid;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.container-2{
+    width: 80%;
+    height: 200px;
+    border: solid;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 10px;
+}
+.container-3{
+    width: 80%;
+    height: 200px;
+    border: solid;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+.container-4{
+    width: 80%;
+    height: 200px;
+    border: solid;
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.card{
+    background-color: teal;
+    /* width: 25%; */
+    text-align: center;
+    color: white;
+    padding: 50px;
+    padding: 70px;
+}

@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    color: black;
+}
+h1{
+    color: blue;
+}
+#first-header{
+    color: blue;
+}
+#seond-header{
+    color: red;
+}
+#third-header{
+    color: green;
+}

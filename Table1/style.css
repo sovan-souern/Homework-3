@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.container{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td,th{
+   border: solid 1px;
+   padding: 10px;
+}
+/* th{
+    background-color: teal;
+} */
+thead{
+    background-color: rgb(15, 141, 141);
+    color: #fff;
+}
+/* tbody tr:nth-child(even){
+    background: rgb(177, 231, 231)
+} */
+/* tbody tr:hover{
+    background: rgb(219, 214, 214);
+} */
+/* td:nth-child(odd){
+    background: orange;
+} */
+i{
+   color: green;
+}

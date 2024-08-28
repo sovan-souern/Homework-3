@@ -1,0 +1,31 @@
+h1{
+  text-align: center;
+  border: 1px solid black;
+  color: blue;
+}
+img{
+    filter: drop-shadow(10px 10px 10px blue);
+    display: flex;
+    justify-content: center;
+}
+input{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+}
+input:hover{
+    background: rgb(62, 35, 160);
+}
+body{
+    background-color: gray;
+}
+span{
+    padding-left: 30px;
+}
+.content{
+    margin-left: 30%;
+}

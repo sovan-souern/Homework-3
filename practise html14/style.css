@@ -1,0 +1,10 @@
+header nav{
+    padding: 20px;
+    background: blue;
+    color: white;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;   
+}

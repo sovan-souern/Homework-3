@@ -1,0 +1,24 @@
+.container {
+    width: 60%;
+    height: 700px;
+    display: flex;
+    margin: auto;
+    border: 5px solid black;
+    justify-content: space-around;
+    align-items: flex-end;
+     
+}
+.box {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+}
+#item1 {
+    background: teal;
+}
+#item2 {
+    background: DarkSlateBlue;
+}
+#item3 {
+    background: MidnightBlue;
+}

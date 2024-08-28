@@ -1,0 +1,28 @@
+body{
+    background-color: bisque;
+}
+h1{
+    color: red;
+    font-size: 48px;
+    font-family: serif;
+}
+h2{
+    color: red;
+    font-size: 48px;
+    font-family: serif
+}
+p{
+    color: red;
+    font-size: 20px;
+    font-family: serif;
+}
+ul{
+    background-color: chartreuse;
+}
+q{
+    font-family: fantasy;
+    color:blue;
+}
+li{
+    color: blue;
+}

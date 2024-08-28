@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-image: url(https://6amcity.brightspotcdn.com/dims4/default/26f5f53/2147483647/strip/true/crop/1332x750+0+69/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk1-prod-sixam-city.s3.us-east-2.amazonaws.com%2Fbrightspot%2F0d%2F84%2F7c175b5e443092d969b6c19af3f5%2F393170483-18307701454185066-3288527068679201488-n.jpg);
+    background-position: center 25%;
+    background-size: cover;
+    height: 100vh;
+    
+}
+.logo p{
+    margin-top: 20px;
+}
+
+
+.home{
+    display: flex;
+    justify-content: flex-end;
+}
+.home li {
+    list-style: none;
+    margin: 20px;
+}
+.home li a{
+    color: #fff;
+    text-decoration: none;
+    justify-content: flex-end;
+    font-size: 20px;
+    font-family: sans-serif;
+}

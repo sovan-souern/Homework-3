@@ -1,0 +1,46 @@
+.container-1{
+    width: 80%;
+    height: 130px;
+    border: solid;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.container-2{
+    width: 80%;
+    height: 130px;
+    border: solid;
+    margin: auto;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.container-3{
+    width: 80%;
+    height: 130px;
+    border: solid;
+    margin: auto;
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.container-4{
+    width: 80%;
+    height: 130px;
+    border: solid;
+    margin: auto;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.card{
+    background-color: teal;
+    color: white;
+    text-align: center;
+    padding: 50px;
+}

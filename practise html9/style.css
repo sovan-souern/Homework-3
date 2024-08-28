@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+}
+p{
+    padding-left: 10px;
+}
+.heading{
+    border: solid;
+    border-radius: 7px;
+    background-color: white;
+    font-family: sans-serif;
+}
+.home1{
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    background-color: teal;
+  
+}
+.home2{
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    background-color: orange;
+  
+}
+.home3{
+    border-radius: 25px;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    background-color: purple;
+  
+}

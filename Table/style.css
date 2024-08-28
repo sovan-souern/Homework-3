@@ -1,0 +1,40 @@
+table, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 15px;
+    padding: 20px;
+  }
+  
+  /* th:nth-child(even),td:nth-child(even) {
+    background-color: #33adad;
+  } */
+.table1{
+    text-align: center;
+    color: black;
+}
+body h2{
+    text-align: center;
+    margin-top: 40px;
+}
+table{
+  width: 100%;
+}
+.home{
+  background-color: rgb(185, 152, 152);
+
+}
+.home th{
+  color: white;
+}
+.home1{
+  background-color: rgb(22, 196, 196);
+}

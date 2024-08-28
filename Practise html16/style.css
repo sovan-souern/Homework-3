@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    
+}
+nav{
+    background: gray;
+    flex: 1;
+
+}
+section{
+    flex: 5;
+    display: flex;
+}
+aside{
+    background: rgb(216, 214, 214);
+    flex: 1;
+}
+main{
+    background: white;
+    flex: 5;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-b;
+}
+.box{
+    width: 32%;
+    border: 2px solid;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    
+}
+footer{
+    background-color: teal;
+    flex: 1.5;
+}
+nav,aside,footer{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    justify-content: center;
+    display: flex;
+
+}
